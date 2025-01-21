@@ -1,6 +1,6 @@
 ### About me
 
-Moi! I am Joakim Junnila, a 2nd year Information Processing Science student from Oulu. I currently have experience in: 
+Moi! I am Joakim Junnila, a 3rd year Information Processing Science student from Oulu. I currently have experience in: 
 - Java, C, and a bit of Python
 - SQLite
 - JUnit testing
@@ -11,7 +11,7 @@ I also have learned about Software Engineering concepts such as
 - Java design patterns
 - Performance analysis
 - Requirements engineering
-- Some algorithms and data structures
+- Algorithms and data structures
 
 <!--
 **jjunnila/jjunnila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
